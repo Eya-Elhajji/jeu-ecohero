@@ -1,16 +1,33 @@
-# ecohero
+# 🌱 EcoHero  
 
-A new Flutter project.
+**Jeu écologique et éducatif pour enfants — Développé avec Flutter**  
+Projet académique réalisé à l'ISET.
 
-## Getting Started
+EcoHero est une application ludique conçue pour sensibiliser les enfants à l'écologie à travers plusieurs mini-jeux simples, amusants et éducatifs. Le projet vise à apprendre les bons gestes pour protéger la planète tout en jouant.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎮 Mini-jeux inclus  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🗑️ TriExpress  
+Trier les déchets dans les bonnes poubelles  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 💡 EcoEnergyGame  
+Apprentissage des gestes d'économie d'énergie  
+
+### ❓ EcoQuiz  
+Quiz écologique avec timer  
+
+### 🧩 EcoPuzzle  
+Puzzle écologique avec images  
+
+### 🧠 EcoMemory  
+Jeu de mémoire sur les thèmes écologiques
+
+---
+
+## 📱 Technologies utilisées  
+- **Flutter (Dart)**  
+- Widgets Material Design  
+- Timers, animations et états (`setState`)  
+- Gestion d'assets (images, sons…)  
